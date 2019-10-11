@@ -1,0 +1,7 @@
+C:\Users\Freek\source\repos\Reversi\Reversi\bin\Debug\Reversi.exe.config
+C:\Users\Freek\source\repos\Reversi\Reversi\bin\Debug\Reversi.exe
+C:\Users\Freek\source\repos\Reversi\Reversi\bin\Debug\Reversi.pdb
+C:\Users\Freek\source\repos\Reversi\Reversi\obj\Debug\Reversi.csprojAssemblyReference.cache
+C:\Users\Freek\source\repos\Reversi\Reversi\obj\Debug\Reversi.csproj.CoreCompileInputs.cache
+C:\Users\Freek\source\repos\Reversi\Reversi\obj\Debug\Reversi.exe
+C:\Users\Freek\source\repos\Reversi\Reversi\obj\Debug\Reversi.pdb
